@@ -62,7 +62,7 @@ To install directly from Github, use `devtools`:
 ```R
 install.packages("devtools")
 library(devtools)
-install_github("GIT_USER_ID/GIT_REPO_ID")
+install_github("Clarivate-SAR/woslite_r_client")
 ```
 
 ### Usage
