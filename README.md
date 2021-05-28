@@ -1,4 +1,4 @@
-# R API client for woslite_r_client
+# R API client for Web of Science API Lite
 
 A responsive API that supports rich searching across the Web of Science Core Collection to retrieve core article metadata. 
 This service provides a great way to reuse Web of Science data both internally and externally to enhance 
