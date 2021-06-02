@@ -45,7 +45,7 @@ install.packages("base64enc")
 ### Build the package
 
 ```sh
-git clone https://github.com/GIT_USER_ID/GIT_REPO_ID
+git clone https://github.com/Clarivate-SAR/woslite_r_client
 cd GIT_REPO_ID
 R CMD build .
 R CMD check woslite_r_client_1.0.0.tar.gz --no-manual
@@ -106,8 +106,6 @@ Class | Method | HTTP request | Description
 - **Location**: HTTP header
 
 
-
-## Author
 
 
 
