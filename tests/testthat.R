@@ -1,4 +1,4 @@
 library(testthat)
-library(woslite_r_client)
+library(wosliterclient)
 
-test_check("woslite_r_client")
+test_check("wosliterclient")
